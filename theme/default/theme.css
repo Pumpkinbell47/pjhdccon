@@ -153,7 +153,7 @@ body {
 
 
 /파딱2/
-.user_gkflsgkfls .chat_upper_box::after {
+.user_닉넴 .chat_upper_box::after {
   display: inline-block;
   content: '';
   width: 1.25rem;
@@ -161,14 +161,14 @@ body {
   font-size: 11rem !important;
   margin: 0.25rem 0.25rem 0 0;
   }
-.user_gkflsgkfls .chat_badge_box::before {
+.user_닉넴 .chat_badge_box::before {
   content: '_' !important;
   background-image: url('data:image/png;base64,R0lGODlhFAASACAGACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo3RjVDOEU4OTE4NDAxMUU4OUNDMTlFREUzNjE3NzJFMyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo3RjVDOEU4QTE4NDAxMUU4OUNDMTlFREUzNjE3NzJFMyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjdGNUM4RTg3MTg0MDExRTg5Q0MxOUVERTM2MTc3MkUzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjdGNUM4RTg4MTg0MDExRTg5Q0MxOUVERTM2MTc3MkUzIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Af/+/fz7+vn49/b19PPy8fDv7u3s6+rp6Ofm5eTj4uHg397d3Nva2djX1tXU09LR0M/OzczLysnIx8bFxMPCwcC/vr28u7q5uLe2tbSzsrGwr66trKuqqainpqWko6KhoJ+enZybmpmYl5aVlJOSkZCPjo2Mi4qJiIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdWVVRTUlFQT05NTEtKSUhHRkVEQ0JBQD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgXFhUUExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAQAABgAsAAAAABQAEgCHAAAAAAAzAABmAACZAADMAAD/ACsAACszACtmACuZACvMACv/AFUAAFUzAFVmAFWZAFXMAFX/AIAAAIAzAIBmAICZAIDMAID/AKoAAKozAKpmAKqZAKrMAKr/ANUAANUzANVmANWZANXMANX/AP8AAP8zAP9mAP+ZAP/MAP//MwAAMwAzMwBmMwCZMwDMMwD/MysAMyszMytmMyuZMyvMMyv/M1UAM1UzM1VmM1WZM1XMM1X/M4AAM4AzM4BmM4CZM4DMM4D/M6oAM6ozM6pmM6qZM6rMM6r/M9UAM9UzM9VmM9WZM9XMM9X/M/8AM/8zM/9mM/+ZM//MM///ZgAAZgAzZgBmZgCZZgDMZgD/ZisAZiszZitmZiuZZivMZiv/ZlUAZlUzZlVmZlWZZlXMZlX/ZoAAZoAzZoBmZoCZZoDMZoD/ZqoAZqozZqpmZqqZZqrMZqr/ZtUAZtUzZtVmZtWZZtXMZtX/Zv8AZv8zZv9mZv+ZZv/MZv//mQAAmQAzmQBmmQCZmQDMmQD/mSsAmSszmStmmSuZmSvMmSv/mVUAmVUzmVVmmVWZmVXMmVX/mYAAmYAzmYBmmYCZmYDMmYD/maoAmaozmapmmaqZmarMmar/mdUAmdUzmdVmmdWZmdXMmdX/mf8Amf8zmf9mmf+Zmf/Mmf//zAAAzAAzzABmzACZzADMzAD/zCsAzCszzCtmzCuZzCvMzCv/zFUAzFUzzFVmzFWZzFXMzFX/zIAAzIAzzIBmzICZzIDMzID/zKoAzKozzKpmzKqZzKrMzKr/zNUAzNUzzNVmzNWZzNXMzNX/zP8AzP8zzP9mzP+ZzP/MzP///wAA/wAz/wBm/wCZ/wDM/wD//ysA/ysz/ytm/yuZ/yvM/yv//1UA/1Uz/1Vm/1WZ/1XM/1X//4AA/4Az/4Bm/4CZ/4DM/4D//6oA/6oz/6pm/6qZ/6rM/6r//9UA/9Uz/9Vm/9WZ/9XM/9X///8A//8z//9m//+Z///M////AAAAAAAAAAAAAAAACMsA9+17oIOgwYIIDQpcmCOBjgQNH0aEOAPCQoRwjsCJk3FjHCNx4uQoKPABjYxqjqhZyHIfyBkCc+RQqfFIy4Vq4jwQCGGGxjgLgQAVCBJkAoEKcoAEsvAjTpo5Ys7QYUEHQ6sCqwIhuW/Ggx83g+YAAqQCzIEjw2YFYmHszq4OgEAoS5Wljh9UgZzNMcNC2KoWyAJ5ELXrA6Y3fwDBW0HH4JIzxs79MZdqXiAjC8scS1mwBcVltzZk+cBrDhmlG6qe4aCw2tewYy8MCAA7');
   background-repeat: no-repeat;
   background-size: 1.125rem;
   background-position: 0.2rem 0.21rem;
 }
-.user_twipkr .chat_nickname_box, .user_gkflsgkfls .chat_badge_box > img { 
+.user_twipkr .chat_nickname_box, .user_닉넴 .chat_badge_box > img { 
   display: none !important;
 }
 .user_pjh5506 .chat_msg_box {
@@ -196,7 +196,7 @@ body {
 /파딱2 끝/
 
 /파딱3/
-.user_파딱아이디 .chat_upper_box::after {
+.user_닉넴2 .chat_upper_box::after {
   display: inline-block;
   content: '';
   width: 1.25rem;
@@ -204,14 +204,14 @@ body {
   font-size: 11rem !important;
   margin: 0.25rem 0.25rem 0 0;
   }
-.user_파딱아이디 .chat_badge_box::before {
+.user_닉넴2 .chat_badge_box::before {
   content: '_' !important;
   background-image: url('data:image/png;base64,R0lGODlhFAASACAGACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo3RjVDOEU4OTE4NDAxMUU4OUNDMTlFREUzNjE3NzJFMyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo3RjVDOEU4QTE4NDAxMUU4OUNDMTlFREUzNjE3NzJFMyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjdGNUM4RTg3MTg0MDExRTg5Q0MxOUVERTM2MTc3MkUzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjdGNUM4RTg4MTg0MDExRTg5Q0MxOUVERTM2MTc3MkUzIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Af/+/fz7+vn49/b19PPy8fDv7u3s6+rp6Ofm5eTj4uHg397d3Nva2djX1tXU09LR0M/OzczLysnIx8bFxMPCwcC/vr28u7q5uLe2tbSzsrGwr66trKuqqainpqWko6KhoJ+enZybmpmYl5aVlJOSkZCPjo2Mi4qJiIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdWVVRTUlFQT05NTEtKSUhHRkVEQ0JBQD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgXFhUUExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAQAABgAsAAAAABQAEgCHAAAAAAAzAABmAACZAADMAAD/ACsAACszACtmACuZACvMACv/AFUAAFUzAFVmAFWZAFXMAFX/AIAAAIAzAIBmAICZAIDMAID/AKoAAKozAKpmAKqZAKrMAKr/ANUAANUzANVmANWZANXMANX/AP8AAP8zAP9mAP+ZAP/MAP//MwAAMwAzMwBmMwCZMwDMMwD/MysAMyszMytmMyuZMyvMMyv/M1UAM1UzM1VmM1WZM1XMM1X/M4AAM4AzM4BmM4CZM4DMM4D/M6oAM6ozM6pmM6qZM6rMM6r/M9UAM9UzM9VmM9WZM9XMM9X/M/8AM/8zM/9mM/+ZM//MM///ZgAAZgAzZgBmZgCZZgDMZgD/ZisAZiszZitmZiuZZivMZiv/ZlUAZlUzZlVmZlWZZlXMZlX/ZoAAZoAzZoBmZoCZZoDMZoD/ZqoAZqozZqpmZqqZZqrMZqr/ZtUAZtUzZtVmZtWZZtXMZtX/Zv8AZv8zZv9mZv+ZZv/MZv//mQAAmQAzmQBmmQCZmQDMmQD/mSsAmSszmStmmSuZmSvMmSv/mVUAmVUzmVVmmVWZmVXMmVX/mYAAmYAzmYBmmYCZmYDMmYD/maoAmaozmapmmaqZmarMmar/mdUAmdUzmdVmmdWZmdXMmdX/mf8Amf8zmf9mmf+Zmf/Mmf//zAAAzAAzzABmzACZzADMzAD/zCsAzCszzCtmzCuZzCvMzCv/zFUAzFUzzFVmzFWZzFXMzFX/zIAAzIAzzIBmzICZzIDMzID/zKoAzKozzKpmzKqZzKrMzKr/zNUAzNUzzNVmzNWZzNXMzNX/zP8AzP8zzP9mzP+ZzP/MzP///wAA/wAz/wBm/wCZ/wDM/wD//ysA/ysz/ytm/yuZ/yvM/yv//1UA/1Uz/1Vm/1WZ/1XM/1X//4AA/4Az/4Bm/4CZ/4DM/4D//6oA/6oz/6pm/6qZ/6rM/6r//9UA/9Uz/9Vm/9WZ/9XM/9X///8A//8z//9m//+Z///M////AAAAAAAAAAAAAAAACMsA9+17oIOgwYIIDQpcmCOBjgQNH0aEOAPCQoRwjsCJk3FjHCNx4uQoKPABjYxqjqhZyHIfyBkCc+RQqfFIy4Vq4jwQCGGGxjgLgQAVCBJkAoEKcoAEsvAjTpo5Ys7QYUEHQ6sCqwIhuW/Ggx83g+YAAqQCzIEjw2YFYmHszq4OgEAoS5Wljh9UgZzNMcNC2KoWyAJ5ELXrA6Y3fwDBW0HH4JIzxs79MZdqXiAjC8scS1mwBcVltzZk+cBrDhmlG6qe4aCw2tewYy8MCAA7');
   background-repeat: no-repeat;
   background-size: 1.125rem;
   background-position: 0.2rem 0.21rem;
 }
-.user_twipkr .chat_nickname_box, .user_파딱아이디 .chat_badge_box > img { 
+.user_twipkr .chat_nickname_box, .user_닉넴2 .chat_badge_box > img { 
   display: none !important;
 }
 .user_pjh5506 .chat_msg_box {
